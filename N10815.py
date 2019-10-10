@@ -1,3 +1,6 @@
+#10815
+#윤지수
+
 def binary_search(num):
     left = 0
     right = n-1
